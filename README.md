@@ -32,6 +32,8 @@ The script uses standard Linux tools: `top`, `free`, `df`, `ps`, `awk`, `bc`
 * Update the disk device in `df` if your system uses a different root partition.
 * Works on most Linux distributions without extra setup.
 
-## Project URL
-https://github.com/am15226-glitch/Server-Performance-Bash
+## Roadmap
+This project follows the roadmap from the Server Stats challenge:
+
+👉 https://roadmap.sh/projects/server-stats
 
